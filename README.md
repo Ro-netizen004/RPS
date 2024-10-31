@@ -1,3 +1,2 @@
 # RPS
-Rock Paper Scissor Game made with python
-Beginner Project
+Rock Paper Scissor Game made with python, Beginner Project
